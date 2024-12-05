@@ -1,0 +1,136 @@
+-DATOS-
+Ejercicio 1
+F = 3000 kp
+t = 15 s
+D = 10 mm
+d = 4.5 mm
+HB = X kp/mm²
+ExpNorma = X
+Ejercicio 2
+F = 3000 kp
+t = 15 s
+D = 10 mm
+d = 4.5 mm
+f = X mm
+Ejercicio 3
+F = 3000 kp
+D = 10 mm
+d = 4.5 mm
+HB = X kp/mm²
+HB = HB'
+D' = 5 mm
+F' = X kp
+Ejercicio 4
+F = 50 kp
+D = 10 mm
+d = 2 mm
+HB = X kp/mm²
+Ejercicio 5
+F = 100 kp
+d = 3 mm
+HV = X kp/mm²
+Ejercicio 6
+m = 22 kg
+h0 = 10 m
+h1 = 0.4 m
+S = 5000 mm²
+p = X J/cm²
+Ejercicio 7
+F = 3000 kp
+D = 10 mm
+d = 5 mm
+HB = X kp/mm²
+Ejercicio 8
+m = 20 kg
+S = 80 mm²
+h0 = 1 m
+h1 = 0.6 m
+p = X J/cm²
+Ejercicio 9
+F = 30 kp
+d = 0.42 mm
+HV = X kp/mm²
+Ejercicio 10
+m = 30 kg
+S = 2.25 cm²
+p = 225 J/cm²
+h0 = 2.4 m
+W = X J
+h1 = X m
+Ejercicio 11
+F = 981 N
+t = 15 s
+d = 0.153 mm
+HV = X kp/mm²
+S = X mm²
+ExpNorma = X
+Ejercicio 12
+S = 120 mm²
+L0 = 150 mm
+L1 = 150.203 mm
+E = 0.302 MN/mm²
+σ = X N/mm²
+F = X N
+Ensayo = X
+Ejercicio 13
+S = 10 mm^2
+L0 = 100 mm
+F = 1500 N
+σp = 25·10^3 N/cm²
+E = 120 GPa
+L1 = X mm
+ɛ = X
+Ejercicio 14
+D = 5 mm
+F = 9810 N
+t = 30 s
+S = 7.23 mm²
+Ensayo = X
+H = X kp/mm²
+ExpNorma = X
+Ejercicio 15
+F = 600 kp
+t = 30 s
+D = 10 mm
+HB = 300 kp/mm²
+f = X mm
+ExpNorma = X
+Ejercicio 16
+m = 30 kg
+h0 = 1.65 m
+h1 = 0.6 m
+p = 85 J/cm²
+S = X mm²
+Ejercicio 17
+D = 10 mm
+t = 15 s
+K = 30 kp/mm²
+d = 4 mm
+F = X kp
+HB = X kp/mm²
+ExpNorma = X
+Ejercicio 18
+F = 187.5 kp
+D = 2.5 mm
+HB = 350 kp/mm²
+d = X mm
+S = X mm²
+f = X mm
+Ensayo = X
+ExpNorma = X
+Ejercicio 19
+F = 30 kp
+d0 = 0.272 mm
+d1 = 0.274 mm
+S = X mm²
+HV = X kp/mm²
+Ensayo = X
+ExpNorma = X
+Ejercicio 20
+S = 100 mm^2
+p = 185 J/cm²
+m = 30 kg
+h0 = 1.5 m
+h1 = X m
+W = X J
+Ensayo = X

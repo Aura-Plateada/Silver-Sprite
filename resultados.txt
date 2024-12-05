@@ -1,0 +1,79 @@
+Ejercicio Ejercicio 1 - Ensayo: Brinell
+f = 0.5348572251270625 mm
+S = 16.803035291786017 mm²
+HB = 178.53917151900035 kp/mm²
+
+ExpNorma: 178.53917151900035 HB 10.0 / 3000.0 / 15.0
+
+Ejercicio Ejercicio 2 - Ensayo: Brinell
+f = 0.5348572251270625 mm
+S = 16.803035291786017 mm²
+HB = 178.53917151900035 kp/mm²
+
+Ejercicio Ejercicio 3 - Ensayo: Brinell
+f = 0.5348572251270625 mm
+S = 16.803035291786017 mm²
+HB = 178.53917151900035 kp/mm²
+
+Ejercicio Ejercicio 4 - Ensayo: Brinell
+f = 0.10102051443364424 mm
+S = 3.173653060065984 mm²
+HB = 15.75471516693146 kp/mm²
+
+Ejercicio Ejercicio 5 - Ensayo: Vickers
+HV = 20.6 kp/mm²
+
+Ejercicio Ejercicio 6 - Ensayo: Péndulo de Charpy
+W = 2071.8720000000003 J
+p = 0.4143744000000001 J/cm²
+
+Ejercicio Ejercicio 7 - Ensayo: Brinell
+f = 0.6698729810778064 mm
+S = 21.04468036192331 mm²
+HB = 142.5538401347249 kp/mm²
+
+Ejercicio Ejercicio 8 - Ensayo: Péndulo de Charpy
+W = 78.48000000000002 J
+p = 0.9810000000000002 J/cm²
+
+Ejercicio Ejercicio 9 - Ensayo: Vickers
+HV = 315.3061224489797 kp/mm²
+
+Ejercicio Ejercicio 10 - Ensayo: Péndulo de Charpy
+Error en el cálculo: unsupported operand type(s) for -: 'float' and 'str'
+
+Ejercicio Ejercicio 11 - Ensayo: Vickers
+HV = 77695.50173010382 kp/mm²
+
+ExpNorma: 77695.50173010382 HV 981.0 / 15.0
+
+Ejercicio Ejercicio 12 - Ensayo: Módulo de Young
+Error en el cálculo: unsupported operand type(s) for /: 'str' and 'float'
+
+Ejercicio Ejercicio 13 - Ensayo: Módulo de Young
+Error en el cálculo: unsupported operand type(s) for -: 'str' and 'float'
+
+Ejercicio Ejercicio 14 - Ensayo: Desconocido
+Explicación: Ensayo desconocido o no se puede calcular con los datos dados.
+Ensayo desconocido o no se puede calcular con los datos dados.
+
+Ejercicio Ejercicio 15 - Ensayo: Desconocido
+Explicación: Ensayo desconocido o no se puede calcular con los datos dados.
+Ensayo desconocido o no se puede calcular con los datos dados.
+
+Ejercicio Ejercicio 16 - Ensayo: Péndulo de Charpy
+Error en el cálculo: unsupported operand type(s) for /: 'float' and 'str'
+
+Ejercicio Ejercicio 17 - Ensayo: Brinell
+Error en el cálculo: unsupported operand type(s) for /: 'str' and 'float'
+
+Ejercicio Ejercicio 18 - Ensayo: Brinell
+Error en el cálculo: unsupported operand type(s) for ** or pow(): 'str' and 'int'
+
+Ejercicio Ejercicio 19 - Ensayo: Desconocido
+Explicación: Ensayo desconocido o no se puede calcular con los datos dados.
+Ensayo desconocido o no se puede calcular con los datos dados.
+
+Ejercicio Ejercicio 20 - Ensayo: Péndulo de Charpy
+Error en el cálculo: unsupported operand type(s) for -: 'float' and 'str'
+

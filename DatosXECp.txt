@@ -1,0 +1,14 @@
+-DATOS-
+Ejercicio 1
+F = 3000 kg
+t = 15 s
+D = 1 cm
+d = 4.5 mm
+HB = X kp/mm^2
+ExpNorma = X
+Ejercicio 2
+F = 3000 kp
+t = 15 s
+D = 10 mm
+d = 4.5 mm
+f = X mm

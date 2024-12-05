@@ -1,0 +1,115 @@
+_____________________________
+-A TENER EN CUENTA-
+- Esto es de tecnología industrial
+- Debes tener en cuenta la presentación de la salida, deberás presentar todo el proceso no solo dar el resultado.
+- X significa que no tenemos el valor y que hay que hallarlo con los otros datos del ejercicio.
+- En cada ejercicio no se toman los datos de los anteriores.
+- Luego de la X o del valor que tenga cualquier dato va sus unidades que pueden corresponder o no a sus unidades requeridas.
+- Hay que tener en cuenta despejar unidades.
+- En algunos ejercicios el valor que no sabemos (X) lo piden en unas unidades distintas a las comunes en ese caso hay que comprobar siempre que unidad está despues de la X.
+    Esto ultimo tambien se deberá hacer en los valores que sí sabemos para cambiar sus unidades a las requeridas.
+- Para prevenir errores se deberá hacer un mensaje de "No se ha podido realizar el ejercicio porque la magnitud "tal" no está en el registro
+    o la formula requerida no está disponible o no es posible calcular el valor porque no está disponible la formula necesaria, etc.
+- Recuerda que cualquier magnitud que este junto a otra significa que se multiplican como πDf es π * D * f
+- Recuerda que "/" es una división
+- Recuerda que tienes que especificar cual es el ensayo
+ 
+Formulas a tener en cuenta:
+HB = F/S
+S_Brinell = πDf
+f = (1/2)(D-√(D²-d²))
+ExpNorma(HB) = HB "HB" D "/" F "/" t # Esto es la expresion segun la norma del ensayo de brinell
+F = KD²
+HV = 1.854(F/S)
+S = d²
+ExpNorma(HV) = HV "HV" F "/" t # Esto es la expresion segun la norma del ensayo de Vickers
+p = W/S
+W = mg(h0 - h1)
+σ = F/S
+ɛ = δ/L0
+δ = (L1 - L0)
+E = σ/ɛ; E = (FL0)/(δS)
+
+
+Unidades de las magnitudes:
+(Representa las magnitudes como variables separadas de tal manera que puedas hacer la conversion de Unidades, por ejemplo: uS = "mm²")
+HB = kp/mm²
+S = mm²
+f = mm
+t = s
+F = kp
+D = mm
+d = mm
+HV = kp/mm²
+m = kg
+h0 = m
+h1 = m
+p = J/cm²
+W = J
+g = m/s²
+L0 = mm
+L1 = mm
+E = N/mm²
+σ = N/mm²
+ɛ = NO TIENE UNIDAD DE MEDIDA
+δ = mm
+K = kp/mm²
+
+Magnitudes:
+F = carga aplicada
+S = superficie de la huella
+HB = dureza de Brinell
+d(HV) = diagonal de la huella
+d = diametro de la huella
+D = diametro de la esfera
+HV = dureza de Vickers
+D', HB', F', etc. = Son la misma magnitud con el cambio de que tiene un valor distinto en ese ejercicio,
+por lo que no será la misma y tendrá un nuevo calculo (que puede seguir la misma formula).
+m = masa del martillo (en la mayoría de los casos, usado en la resiliencia con el pendulo de charpy)
+mV = constante del sen(68) para la superficie de la huella de Vickers, pero fue simplificada para que sea sencilla
+y usada en la dureza de Vickers.
+p = resiliencia del material del péndulo de Charpy
+g = aceleración de la gravedad, usada para convertir de kg a N
+N = Newtons (para la fuerza)
+J = Julios (para el trabajo)
+W = trabajo (usado en el péndulo de charpy)
+h0 = altura inicial en la que está el martillo
+h1 = altura final después de la rotura del material
+L0 = longitud del material inicial, usado en ensayos de tracción o Modulo de Young
+L1 = longitud del material final, luego de la deformación, usado en ensayos de tracción o Modulo de Young
+E = Módulo de Young
+σ = esfuerzo unitario, usado en Módulo
+ɛ = deformación
+δ = diferencia de longitud
+K = es una constante que te da el ejercicio en ensayos brinell
+
+Conversión de Unidades:
+1000 g = 1 kg = 1 kp
+0.1 m = 1 cm = 10 mm
+1 cm² = 10² mm²
+1 m² = 100 cm² = 1000 mm²
+J = N * m
+1 N = 1 kg * g
+Pa = 1 N/m²
+    Prefijos de unidades dentro de la misma unidad:
+    1 k = 10³
+    1 M = 10⁶
+    1 G = 10⁹
+
+
+Constantes:
+g = 9.81 m/s²
+mV = 1.854
+
+Explicaciones:
+    Si te dicen "Ensayo = X"
+    Tendrás que explicar porque sabes que es ese ensayo:
+    Ensayo = "Brinell"
+        "Es un ensayo de Brinell porque nos da el D (diametro de la esfera) y nos especifica que es un penetrador esferico"
+    Ensayo = "Vickers"
+        "Es un ensayo de Vickers porque nos da el d (la diagonal de la piramide) y nos especifica que es un penetrador piramidal"
+    Ensayo = "Péndulo de Charpy"
+        "Es un ensayo con Péndulo de Charpy porque nos dice sobre la masa del martillo, habla de la altura, de un péndulo y la resiliencia y eso solo se observa con este tipo de ensayo"
+    Ensayo = "Módulo de Young"
+        "Es un ensayo de tracción o Módulo de Young por muchas razones es muy iconico y eso..."
+    Si no te piden "Ensayo = X" entonces solo pon el nombre del ensayo sin la explicación.
