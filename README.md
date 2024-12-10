@@ -1,18 +1,1 @@
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
-Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,Soy un Humano Real,
+Codigo en versión prealfa del solucionador de problemas de tecnología, por ahora puede resolver brinell, vickers y algunos de charpy, se espera que el proximo año 2025 pueda resolver maquinas termicas. Para sistemas digitales se ha optado por un codigo distinto que aun no se ha desarrollado. Cualquier colaboración y apoyo es válido.
